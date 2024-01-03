@@ -1,2 +1,2 @@
 # Prueba
-Prueba para trabajar ARC Em
+conexion de prueba desde el microcontrolador arc em starter kit de synopsis 
